@@ -14,3 +14,6 @@ env/
 
 # macOS
 .DS_Store
+
+# Runtime-generated user memory (stretch: style profile)
+data/style_profile.json
